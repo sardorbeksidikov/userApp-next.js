@@ -33,7 +33,7 @@ export function Header() {
     <header>
       <div className="wrapper">
         <div className="logo-box">
-          {/* <Image src={logo.src} alt="logo" width={32} height={32} /> */}
+          <Image src={logo.src} alt="logo" width={32} height={32} />
           <h1>User App</h1>
         </div>
         <input
